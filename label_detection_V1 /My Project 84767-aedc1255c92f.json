@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "river-formula-256108",
+  "private_key_id": "aedc1255c92fc4235ad6a2c0afe465f219366402",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLn1OvECJcma8D\ng5w582SaFVfQeERnmGk0lGGfMWWTpsIyCNSMhHVrjDDiAtWAB6qsdtYOtSTEYufN\n8FtcKsprLOxkH0u4NYS74Intl/PmoudSBUkWmEqueFLT1VnadEbDZfOIrWpttfPF\njKL7cSQRmHNx4a0MlsNjNonAKMNo6WLb8KJH7pXNfY1p0ee8jhzOW987Gnz5qnDl\ndNUSN1VHkmUPPqVkHtK/2HpQ7ut8xyp/hkKrxyQrpDuOmyJr5iDIDEbLGHSPxL73\nwkNY8c61jMAhm0XJiHYCkz7WhmdadaIHPIryMBbJIaaGcuNYJoyQrEoZ1oav6gHt\nHhQTcIPnAgMBAAECggEAUvs3S1yz5DDtVe1IuYUrNnAEPX0Fw4IlPbxKnGmxD58h\n/OoEVM+WWqHjOfgVsftt3qL/UTcZKL914ENXuBPoMg04uQTYAtYspbQ4AY+vYgp5\nYr+srXya0sdOWe3UlGZWgEMIIGcrvFIuag+KTBYrsNAEHCDwOPUn40LSmHEEUbgv\n2sWO1ESv5B7jmvV+0BHD9R0WW7ix0DHe4VXK4dBgz0JySCXqaYX9YQDaPQ0l3KGH\nFPo87hOx3UMhs0aCgU+nPZVK17LPtD+CE5waWgiByQg3moB/WBjj9Vc5QgnTGdWJ\nAocCEu4g5I66tPHkeXRbWoiBBtrHLO3l9CEY3MGewQKBgQD+O4BehPT5gvbbPTws\njJJkJln7gXIdfw3KGuegcYa6AgMlShmsfxzXw6cJyF1v6A/trlSubNYFiXYuutYb\nGLpNe2ZLmmTruM5LKuoVB1ivqmQ39TwZ5eoTSmGt3BhCNLIJeodBA2taF7MjN+ym\nVOUg5/Us9ngpbdY5qFlO84GIrwKBgQDNCb8drAOAN9Pg0SHPiAH4dzpomxv+UL8+\nW+697daTrwqnErScHaIGRFQlIz1zW+ahF5MFxO+pzPVatlJzLbroOLTGzrmsvEkE\nAezdtNWf2miEKOuOknMPbCI+V5tMpD5VzFCjl7vEX7F2bWvO3dPCPiE+p2pYbhT7\nR85/v7aWSQKBgByDI9R16NuK2pCf/32njkt5GaJhVCEGvM8r0UpnMQrvatblxpdX\n8i4onTU1qXUBe7fWU1z0i9Q3JG/9OEH1tf82lbRo7mSZZ1l6yKHvHv0kiPTVphXp\neSUMtIPBKV9TdZwmh8C8129VNRwAC6Rj5QaZvR97zOIolVwGC24VVTO1AoGADX2O\nrY0bzdvefPRFnTn9pzNxDGDoPptheeDinGyBqcXilYuNhpgMiQ0F3EutR2HMktzS\nN5b1jd6GZimI0zs3CQByJIKFhO/+fd0CkLPNOm9MYSWwGflYyLL8rc1l0m0cDNkc\nlSbum8UQEBKy/TFrNWSRG2Y4gQj9KGtZEt6yTMECgYEAnZkATIQUt71tltb2/Qvz\ntJ6QcHN4BYEUTLCW638QiW8Wp99jHEN5S5GO5D9BgVuUht+SVY54RmGMA+xpL0CK\n9cd5mr2rzWLUjN1X+NYtzXf0Ojr9HiHjrIq/1zJ4cTIwjzXjCUht0U0AQErGqP7P\nzugwPFIgGm5EPqQK/Jfwq1w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "apikey@river-formula-256108.iam.gserviceaccount.com",
+  "client_id": "106682685707296644215",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apikey%40river-formula-256108.iam.gserviceaccount.com"
+}
